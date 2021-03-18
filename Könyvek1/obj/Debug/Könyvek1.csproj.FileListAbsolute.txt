@@ -1,0 +1,15 @@
+C:\Users\Daniel S Johnson\Desktop\Könyvek1\Könyvek1\obj\Debug\Könyvek1.csprojAssemblyReference.cache
+C:\Users\Daniel S Johnson\Desktop\Könyvek1\Könyvek1\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel S Johnson\Desktop\Könyvek1\Könyvek1\obj\Debug\App.g.cs
+C:\Users\Daniel S Johnson\Desktop\Könyvek1\Könyvek1\obj\Debug\Könyvek1_MarkupCompile.cache
+C:\Users\Daniel S Johnson\Desktop\Könyvek1\Könyvek1\obj\Debug\Könyvek1_MarkupCompile.lref
+C:\Users\Daniel S Johnson\Desktop\Könyvek1\Könyvek1\bin\Debug\Könyvek1.exe.config
+C:\Users\Daniel S Johnson\Desktop\Könyvek1\Könyvek1\bin\Debug\Könyvek1.exe
+C:\Users\Daniel S Johnson\Desktop\Könyvek1\Könyvek1\bin\Debug\Könyvek1.pdb
+C:\Users\Daniel S Johnson\Desktop\Könyvek1\Könyvek1\obj\Debug\MainWindow.baml
+C:\Users\Daniel S Johnson\Desktop\Könyvek1\Könyvek1\obj\Debug\Könyvek1.g.resources
+C:\Users\Daniel S Johnson\Desktop\Könyvek1\Könyvek1\obj\Debug\Könyvek1.Properties.Resources.resources
+C:\Users\Daniel S Johnson\Desktop\Könyvek1\Könyvek1\obj\Debug\Könyvek1.csproj.GenerateResource.cache
+C:\Users\Daniel S Johnson\Desktop\Könyvek1\Könyvek1\obj\Debug\Könyvek1.csproj.CoreCompileInputs.cache
+C:\Users\Daniel S Johnson\Desktop\Könyvek1\Könyvek1\obj\Debug\Könyvek1.exe
+C:\Users\Daniel S Johnson\Desktop\Könyvek1\Könyvek1\obj\Debug\Könyvek1.pdb
